@@ -1,6 +1,7 @@
 <b>Телеграм бот для отслеживания поступающих КФУ</b>
 
 Для запуска:
+- pip install -r requirements.txt
 - в файле config.py заменить token на "Telegram bot token", dev_id на Telegram id разработчика.
 - активация через python bot.py
 
