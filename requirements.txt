@@ -1,0 +1,6 @@
+aiogram==2.15
+bs4==0.0.1
+requests==2.21.0
+lxml==4.6.3
+numpy==1.21.4
+pysqlite3==0.4.6
